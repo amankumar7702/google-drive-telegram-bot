@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5930400733:AAHpokBkckn-_k7gSEJf90BC4GpPuP9a_q0"
     APP_ID = "9991326"
     API_HASH = "9c4c83a117c20c2d467e056fcf460eb5"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://teletodrive_user:f7IiiuKOpGsxeWS4NfkIOnVOi7hElmEh@dpg-ci2bttrhp8u1a19ohgsg-a.oregon-postgres.render.com/teletodrive"
     SUDO_USERS = "1459034403" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
